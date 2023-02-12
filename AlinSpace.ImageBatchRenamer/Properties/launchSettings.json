@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AlinSpace.ImageBatchRenamer": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\alinp\\OneDrive\\Desktop\\Images"
+    }
+  }
+}
